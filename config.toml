@@ -10,4 +10,5 @@ build-mode = "apk"
 excluded-patches = ""
 included-patches = ""
 version = "auto"
+arch = "arm64-v8a"
 apkmirror-dlurl = "apkmirror.com/apk/google-inc/photos" # fallback
